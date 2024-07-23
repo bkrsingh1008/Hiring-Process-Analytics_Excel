@@ -12,7 +12,7 @@ Data Extraction:
 We extract the dataset and identify the number of columns, rows, and datatypes for the business requirements.
 
 Data Cleaning:
-1. Handling Missing Data: We check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
+- Handling Missing Data: We check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
 2. Clubbing Columns: If there are columns with multiple categories that can be combined, do so to simplify our analysis.
 3. Outlier Detection: We also check for outliers in the dataset that may skew our analysis.
 4. Removing Outliers: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
