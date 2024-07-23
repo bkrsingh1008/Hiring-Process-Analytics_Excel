@@ -13,10 +13,10 @@ We extract the dataset and identify the number of columns, rows, and datatypes f
 
 Data Cleaning:
 - Handling Missing Data: We check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
-2. Clubbing Columns: If there are columns with multiple categories that can be combined, do so to simplify our analysis.
-3. Outlier Detection: We also check for outliers in the dataset that may skew our analysis.
-4. Removing Outliers: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
-5. Data Summary: After cleaning and preparing the data, summarize the findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
+- Clubbing Columns: If there are columns with multiple categories that can be combined, do so to simplify our analysis.
+- Outlier Detection: We also check for outliers in the dataset that may skew our analysis.
+- Removing Outliers: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
+- Data Summary: After cleaning and preparing the data, summarize the findings. This could involve calculating averages, medians, or other statistical measures. It could also involve creating visualizations to better understand the data.
 
 Tasks:
 -------------------------
