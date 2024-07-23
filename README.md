@@ -3,7 +3,9 @@
 Project Description:
 -------------------------
 Our task is to analyze the company's hiring process data and draw meaningful insights from it. The hiring process is a crucial function of any company, and understanding trends such as the number of rejections, interviews, job types, and vacancies can provide valuable insights for the hiring department.
+
 As a data analyst, we'll be given a dataset containing records of previous hires. Our job is to analyze this data and answer certain questions that can help the company improve its hiring process.
+
 The goal of this project is to use the knowledge of statistics and Excel to draw meaningful conclusions about the company's hiring process. Our insights could potentially help the company improve its hiring process and make better hiring decisions in the future.
 
 What we can do:
