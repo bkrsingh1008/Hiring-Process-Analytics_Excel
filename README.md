@@ -8,8 +8,10 @@ The goal of this project is to use the knowledge of statistics and Excel to draw
 
 What we can do:
 -------------------------
-Data Cleaning:
+Data Extraction:
+We extract the dataset and identify the number of columns, rows, and datatypes for the business requirements.
 
+Data Cleaning:
 1. Handling Missing Data: We check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
 2. Clubbing Columns: If there are columns with multiple categories that can be combined, do so to simplify our analysis.
 3. Outlier Detection: We also check for outliers in the dataset that may skew our analysis.
@@ -34,4 +36,11 @@ Your Task: Use a pie chart, bar graph, or any other suitable visualization to sh
 E. Position Tier Analysis: Different positions within a company often have different tiers or levels.
 Your Task: Use a chart or graph to represent the different position tiers within the company. This will help you understand the distribution of positions across different tiers.
 
-
+Insights and Results:
+---------------------------
+- Discovered that male employees have been hired at a significantly higher rate than female employees.
+- Established that the company's average salary offering is approximately $50K.
+- Developed salary range intervals to accurately determine salary distribution between hired and rejected candidates.
+- Leveraged diverse charts to effectively visualize the employee distribution across various departments.
+- Identified that the Operations department has the highest number of employees, followed by the Service and Sales departments.
+- Revealed that the number of Chief Executives surpasses the number of Interns and Business Analysts.
